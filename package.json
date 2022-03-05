@@ -1,5 +1,6 @@
 {
     "name": "fuse-react-app",
+    "author": "https://www.linkedin.com/in/wahyu-fatur-rizky",
     "version": "3.2.5",
     "private": true,
     "dependencies": {
